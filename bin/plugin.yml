@@ -1,0 +1,12 @@
+name: BendingScoreboard
+main: com.rockmc.korra.scoreboard.BendingScoreboard
+version: 0.1
+authors: [jedk1]
+depend: ['ProjectKorra']
+
+commands:
+  bboard:
+    description: Default command for Bending Board!
+    usage: /bboard
+    aliases: bb
+    permission: bboard.player
