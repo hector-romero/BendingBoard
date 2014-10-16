@@ -1,5 +1,5 @@
 name: BendingScoreboard
-main: com.rockmc.korra.scoreboard.BendingScoreboard
+main: com.AlexTheCoder.korra.scoreboard.BendingScoreboard
 version: 0.1
 authors: [jedk1]
 depend: ['ProjectKorra']
